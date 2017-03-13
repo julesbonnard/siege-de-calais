@@ -2653,7 +2653,7 @@ Elles sont maintenant près du camp de mon Roi.
 **EDOUARD**  
 Perfide, oses-tu bien...  
 
-**ALIÉNOR*** avec une joie tranquille*  
+**ALIÉNOR***, avec une joie tranquille*  
 Il est digne de moi.  
 
 **EDOUARD**  
@@ -2768,10 +2768,10 @@ Seigneur...
 
 *Il se jette aux pieds d'Edouard*  
 
-**SAINT-PIERRE*** se retournant*  
+**SAINT-PIERRE***, se retournant*  
 Mon fils, aux pieds d'un autre que son Roi !  
 
-**AURELE*** à son Père*  
+**AURELE***, à son Père*  
 Oui, j'ose demander, (c'est ma seule priere, )  
 
 *A Edouard*  
