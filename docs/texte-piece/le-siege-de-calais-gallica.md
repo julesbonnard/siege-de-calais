@@ -7,7 +7,7 @@
 * EUSTACHE DE SAINT – PIERRE  
 * AMBLÉTUSE.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 QUOI ! le Comte de Vienne est sorti de Calais  
 Et son ordre, avec vous, m'enchaîne en son Palais !  
 Il combat pour nos jours ; sa prudence active  
@@ -21,7 +21,7 @@ Je vois ton sang versé, sans y mêler le mien !
 De ce fier Gouverneur la funeste vaillance  
 Toujours aux grands périls réserve sa présence.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 O Maire de Calais, modérez vos douleurs  
 L'absence des dangers afflige nos deux coeurs  
 Mais vous avez un fils, que Vienne vous envie  
@@ -35,16 +35,16 @@ Joignait son nom vainqueur aux noms de nos Héros
 S'il obtenait ce prix, le plus flatteur peut-être  
 Le plus cher aux Français, l'estime de son Maître !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Généreux Amblétuse, en vain à ma douleur  
 D'un avenir si doux tu présentes l'erreur :  
 Par un trouble inconnu, malgré moi, je rejette  
 L'image d'un bonheur que mon ame souhaite.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Quoi ! vous désespérez du fort de ce combat ?  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 J'espere tout, ami, des destins de l'État.  
 Malheur aux Nations qui, cédant à l'orage  
 Laissent par les revers avilir leur courage  
@@ -57,12 +57,12 @@ Mais ma mort peut servir au bien de mon Pays
 Et si nos Citoyens tiennent tous ce langage  
 Du salut de l'État c'est le plus sûr présage.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Ils ont appris de vous à triompher du Sort  
 Croyez qu'ils béniraient leur chûte avec transport  
 Si Calais, en tombant, pouvait sauver la France.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 C'est-là, je l'avouerai, ma plus ferme espérance  
 Je doute qu'en nos murs nous voyons introduit  
 Le secours qu'à grands pas le Roi même y conduit  
@@ -83,7 +83,7 @@ Accable la Valeur fous l'effort du Génie
 Pour ses yeux pénétrans l'Art n'a plus de secrets  
 La France doit sa perte aux talens d'un Français.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Des brigues de la Cour quel effet déplorable !  
 Ce fut en l'outrageant qu'on le rendit coupable  
 Innocent plongé dans l'horreur des cachots  
@@ -93,13 +93,13 @@ L'exil accrut encor cette sanglante ivresse :
 Aux rigueurs du Ministre opposant l'attentat  
 Un seul homme opprimé fit les maux de l'État.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 J'entends toujours gronder ces foudres mugissantes.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 L'écho des Mers répond fous nos voûtes tremblantes.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Eh ! que peut désormais tout l'effort d'un grand coeur  
 Contre les noirs Volcans d'un airain destructeur  
 Qui semble renfermer le dépôt du Tonnerre  
@@ -114,18 +114,18 @@ Et tu peux t'en remettre à nos coeurs sanguinaires
 De rendre ce fléau plus mortel à nos Frères  
 Amblétuse, le bruit est soudain suspendu.  
 
-AMBLÉTUSE, après avoir écouté un moment.  
+**AMBLÉTUSE***, après avoir écouté un moment.*  
 O silence effrayant !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Ami, tout est perdu.  
 Je ne vois point flotter l'étendart de la gloire  
 Qui devait, sur la Tour, m'annoncer la victoire.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Il n'en faut point douter, nos Guerriers sont vaincus.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 S'il est vrai, je frissonne.. Ah ! mon fils n'est donc plus  
 Il n'a jamais su fuir : sa chaleur indiscrette  
 Voit comme un déshonneur la plus sage retraite  
@@ -146,7 +146,7 @@ Courez à nos remparts, allez tout éclaircir.
 
 * SAINT-PIERRE, seul  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 VOICI donc le moment que j'ai su pressentir !  
 De tant de jours cruels voici l'heure dernière !..  
 Mais elle ouvre à l'Honneur la plus vaste carrière  
@@ -163,14 +163,14 @@ Elle approche.
 * ALIÉNOR  
 * SAINT-PIERRE  
 
-ALIÉNOR, en pleurs, soutenue sur une de ses femmes.  
+**ALIÉNOR***, en pleurs, soutenue sur une de ses femmes.*  
 O mon père !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 A peine elle respire.  
 Madame, eh ! quoi, vos pleurs....!...  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ils doivent tout vous dire  
 Si des revers plus grands pouvaient nous accabler  
 Le Destin contre nous saurait les rassembler  
@@ -201,23 +201,23 @@ Mon père enfin reçoit des fers des secours
 C'est au fils d'Édouard, jaloux de sa vaillance  
 Qu'on dit qu'il a rendu les débris de sa lance.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Quel fort ! Autant que vous je m'en dois affliger...  
 Mais ma bouche frémit de vous interroger  
 Madame Je fus père : ah ! ce combat funeste  
 M'enlève-t-il encor le seul fils qui me reste ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Je l'ai vu, malgré lui, porté par nos soldats  
 Qu'il inondait du sang qui coulait de son bras  
 Tant qu'il a pu combattre, il fut notre espérance.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Il respire ! son sang a coulé pour la France !...  
 Double faveur des Cieux qui se répand sur moi !  
 J'ai donc un fils encore à donner à mon Roi !  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Dieu ! l'admiration a suspendu mes larmes  
 O coeur vraiment Français ! ô transport plein de charmes !  
 Quand Vienne me quittait pour ses devoirs cruels  
@@ -225,10 +225,10 @@ Vous remplissiez vers moi ses devoirs paternels
 Je le revois toujours dans votre ame intrépide  
 Quel coeur, auprès de vous, peut être encor timide  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Je cours sur les remparts recueillir nos débris.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Demeurez C'est un soin qu'Aurèle a déjà pris  
 L'Anglais est retiré ; son camp paraît tranquille  
 Tout est en sûreté sur les murs de la Ville  
@@ -245,7 +245,7 @@ De sa mère, avec faste, il réclame les droits
 Valois même, à ses yeux, n'est qu'un Prince rebelle..  
 S'il va punir mon père en Sujet infidèle ?  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Édouard, des Français, cherche à gagner les coeurs  
 Et non à les aigrir par d'injustes rigueurs.  
 Mais, si de son courroux la prompte violence  
@@ -257,7 +257,7 @@ Vit à sa noble ardeur votre main destinée
 Lui, l'Auteur de vos maux qu'il plaint au fond du coeur  
 Saura fléchir ce Roi que lui seul rend vainqueur.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ah ! c'est le seul Français parjure à son vrai Maître  
 Que j'aurais à rougir des bienfaits de ce traître !  
 Son nom est mon opprobre : ses perfides mains  
@@ -287,7 +287,7 @@ Des exploits dont l'éclat augmente l'infamie.
 * SAINT – PIERRE  
 * AMBLÉTUSE  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 IL n'est plus d'espérance : j'ai vu votre fils  
 Blessé, mais plus ardent, rassembler nos débris  
 A travers la pâleur qui couvrait son visage  
@@ -307,20 +307,20 @@ Le voici.
 * AMBLÉTUSE  
 * AURELE le bras en écharpe, soutenu par un Bourgeois.  
 
-SAINT-PIERRE, allant vers son fils l'embrassant,  
+**SAINT-PIERRE***, allant vers son fils l'embrassant,*  
 VIENS, reçoi le prix de ton courage  
 Mon cher fils De mon sang tu sais un digne usage  
 Du plaisir de le voir noblement répandu  
 Sens tressaillir ce coeur de qui tu l'as reçu.  
 
-AURELE  
+**AURELE**  
 J'en conserve, mon père, en ces momens funestes  
 Assez pour honorer vendre cher ses restes  
 Et pour tenir, peut-être, à nos fiers ennemis  
 Ce qu'en d'autres combats mes essais ont promis  
 De mes sens trop émus excusez la faiblesse.  
 
-*(Il s'assied ; son père le serre dans ses bras.)*  
+*Il s'assied ; son père le serre dans ses bras*  
 
 Vos yeux baignent mon front de larmes d'allégresse  
 Que ne puis-je en triomphe expirer dans vos bras  
@@ -328,7 +328,7 @@ Vous montrer ces remparts sauvés par mon trépas ;
 Donner, en vrai Français, à mon heure dernière  
 Mon sang à ma Patrie, mes pleurs à mon Père  
 
-*A Aliénor.*  
+*A Aliénor*  
 
 Madame, savez-vous le nom de mon vainqueur  
 Sous le bras d'un Héros je tombe avec honneur  
@@ -337,15 +337,15 @@ Un Guerrier m'a blessé... J'ai reconnu son frère
 Dans cet instant fatal ils se sont vus tous deux..  
 Jugez si le mourant est le plus malheureux.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ciel ! tu veux lui choisir les plus chères victimes  
 Qu'il doit être effrayé du bonheur de ses crimes  
 
-BLÉTUSE, à Saint-Pierre  
+**BLÉTUSE***, à Saint-Pierre*  
 Ami, les Chefs du Peuple, en ce moment d'effroi  
 Sur leurs derniers devoirs viennent prendre ta loi.  
 
-SAINT -PIERRE fait signe qu'on les laisse entrer.  
+**SAINT-PIERRE*** fait signe qu'on les laisse entrer.*  
 
 *A Aliénor.*  
 
@@ -366,7 +366,7 @@ Nous êtes son Oracle, il consulte l'Honneur.
 * AMBLÉTUSE  
 * CHEFS DES BOURGEOIS  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 DÉFENSEURS de Calais Chefs d'un Peuple fidèle  
 Vous, de nos Chevaliers, l'envie le modèle  
 Faudra-t-il, pour un tems, voir les fiers Léopards  
@@ -422,7 +422,7 @@ Choisissez le trépas le plus digne de vous
 Je vous laisse l'honneur de tracer la carrière  
 Content que ma vertu s'y montre la première.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Citoyens, j'entrevois quel effort courageux  
 Attend sans le prescrire, un Chef si généreux  
 Mon père projettait un noble sacrifice.....  
@@ -456,7 +456,7 @@ Où notre gloire encor va se voir épurer
 Nous puissions dire au moins que, sans changer de Maître  
 Cessant d'être Français Calais a cessé 'être.  
 
-AURELE  
+**AURELE**  
 O noble emportement ! désespoir de l'Honneur  
 Qui ranime mes sens passe dans mon coeur  
 Oui, d'un oeil inquiet, la France nous contemple  
@@ -479,7 +479,7 @@ Plus jeune, je saurai m'y plonger avant vous.
 
 *Il veut sortir.*  
 
-SAINT-PIERRE, l'arrêtant  
+**SAINT-PIERRE***, l'arrêtant*  
 Demeure... O mes amis ! c'est le Ciel qui m'inspire  
 Vous vivrez J'ai sauvé des Héros que j'admire  
 Au Monarque, à l'Etat, conservez vos grands coeurs.  
@@ -518,7 +518,8 @@ Quel présent je vais faire au Maître que j'adore !
 
 * LE COMTE D'HARCOURT, seul  
 
-DANS mes sens soulevés quel tumulte confus !  
+**LE COMTE D'HARCOURT**
+Dans mes sens soulevés quel tumulte confus !  
 Je rougis de moi même ne me connais plus  
 Cité que je remplis d'infortune de gloire  
 Contemple ton vainqueur, il pleure sa victoire  
@@ -544,14 +545,14 @@ Viens jouïr de mes maux ils t'ont assez vengée.
 * HARCOURT  
 * UN OFFICIER ANGLAIS  
 
-HARCOURT  
+**HARCOURT**  
 EH ! bien, qu'a-t-elle dit ?  
 
-L'OFFICIER  
+**L'OFFICIER**  
 Elle vient sur mes pas  
 Et j'ai rempli votre ordre en ne vous nommant pas.  
 
-HARCOURT  
+**HARCOURT**  
 Je brûle de la voir.... tremble à son approche  
 De ceux qu'on a trahis l'aspect est un reproche.  
 
@@ -562,11 +563,11 @@ De ceux qu'on a trahis l'aspect est un reproche.
 * HARCOURT  
 * ALIÉNOR  
 
-ALIÉNOR  
+**ALIÉNOR**  
 
 *Du fond du Théâtre, marchant vers le Comte, sans l'envisager.*  
 
-SEIGNEUR, je l'avouerai d'un Monarque vainqueur  
+**SEIGNEUR***, je l'avouerai d'un Monarque vainqueur*  
 Je n'osais point attendre un tel excès d'honneur  
 Quoi ! pour me rassurer sur le fort de mon père  
 Il m'envoie....  
@@ -576,24 +577,24 @@ Il m'envoie....
 Ah ! Grand Dieu ! c'est Harcourt.. Témérair  
 Qui peut donc m'exposer à l'horreur de te voir ?  
 
-HARCOURT  
+**HARCOURT**  
 Le repentir en pleurs, l'amour au désespoir  
 Ah ! calmez un moment cette ardente colère.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Obéis à ton Roi : parle moi de mon père.  
 
-HARCOURT  
+**HARCOURT**  
 Edouard vous promet de respecter ses jours.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 
 *Avec joie*  
 
 Ah !... je peux donc cesser d'entendre tes discours  
 Adieu.  
 
-HARCOURT, la suivant  
+**HARCOURT***, la suivant*  
 Vous m'entendrez, ou ma mort est certaine  
 Mon amour furieux servira votre haine.  
 
@@ -603,11 +604,11 @@ Demeurez ou mon sang va rejaillir sur vous.
 
 *Il met la main à son épée*  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ce crime te manquait pour les couronner tous  
 Malheureux, meurs encor sans réparer ta vie.  
 
-HARCOURT  
+**HARCOURT**  
 Je veux la réparer : c'est mon unique envie  
 Daignez servir de guide aux aveugles transports  
 De ce coeur, forcené jusques dans ses remords  
@@ -617,7 +618,7 @@ Un regard sur moi-même obscurcit ma raison
 Opprobre de l'Amour, fléau de ma Maison  
 Horreur du nom d'Harcourt dont j'ai flétri la gloire...  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Le nom d'Harcourt flétri ! lâche, oses-tu le croire ?  
 Va, le nom des Héros, par un Traître porté  
 N'arrive pas moins pur à l'Immortalité  
@@ -644,7 +645,7 @@ Me voir plonger vivante en des torrens de feux
 Cueille ces vils lauriers que l'Anglais veut te vendre  
 Trempés du sang d'un frère couverts de ma cendre.  
 
-HARCOURT  
+**HARCOURT**  
 Ah ! quels traits déchirans vous plongez dans mon sein !  
 Que d'horreurs !... quoi ! mon frère expirer par ma main !  
 Non.. Mais sa mort me rend à l'espoir de ma race  
@@ -686,7 +687,7 @@ En a tourné vers vous le reflux orageux
 Et je sens que l'Amour lorsque l'Honneur épure  
 Donne encor plus de force au cri de la Nature.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Eh ! bien, ose venger nos maux tes forfaits  
 Je peux tout oublier.. Viens délivrer Calais  
 Rends un malheureux pere à sa fille tremblante  
@@ -700,7 +701,7 @@ Leurs intrépides coeurs ne trouvent plus de bras
 D'ailleurs de tous nos Chefs la promesse sacrée  
 De ces murs, à l'Anglais, offre déjà l'entrée.  
 
-HARCOURT  
+**HARCOURT**  
 Oui, je connais l'abîme où je fuis entraîné  
 A des crimes encor par mon crime enchaîné  
 La vertu m'offre en vain de tardives lumieres  
@@ -718,11 +719,11 @@ L'horrible désespoir d'un impuissant remord
 Et cet exemple affreux vient de montrer peut-être  
 L'inévitable fin de qui trahit son Maître.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Qui s'avance en ces lieux Je mois de toute part  
 Les Chefs des Citoyens...  
 
-HARCOURT  
+**HARCOURT**  
 C'est l'ami d'Édouard  
 C'est le brave Mauni que cette garde annonce  
 Et qui vient de son Prince apporter la réponse.  
@@ -735,7 +736,7 @@ Et qui vient de son Prince apporter la réponse.
 * AURÈLE  
 * AMBLÉTUSE CHEFS DES BOURGEOIS, ÉCUYERS.  
 
-MAUNI  
+**MAUNI**  
 REBELLES qui bravez dans Édouard vainqueur  
 Les droits de sa naissance ceux de sa valeur  
 Si ma main n'arrêtait les traits de sa colère  
@@ -764,19 +765,19 @@ Six de vos Citoyens, qu'il faut m'abandonner
 Qu'en partant de ces murs votre choix me les livre  
 Allez, c'est à ce prix qu'il vous permet de vivre.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 A cette indignité nous nous verrions réduits !  
 
-ALIÉNOR, à Harcourt  
+**ALIÉNOR***, à Harcourt*  
 Et de ton crime encor voilà de nouveaux fruits  
 
-HARCOURT  
+**HARCOURT**  
 Ah ! Dieu !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Soutiens, ô Ciel, la vertu malheureuse.  
 
-AURELE  
+**AURELE**  
 O de la cruaté recherche industrieuse !  
 Férocité tranquille en sa feinte douceur  
 Qui même avec le jour, veut nous ravir l'honneur !  
@@ -814,7 +815,7 @@ Que l'amour des Français ait offert à leur Maître.
 
 *Les Bourgeois sont un pas pour sortir*  
 
-HARCOURT, impétueusement  
+**HARCOURT***, impétueusement*  
 Non braves Citoyens, non, je ne puis souffrir  
 Cette sublime horreur où je vous vois courir  
 Je prétends envers vous, expier ma victoire  
@@ -849,7 +850,7 @@ Mais mon dernier regret sera jour ma Patrie.
 * AMBLÉTUSE  
 * BOURGEOIS  
 
-MAUNI  
+**MAUNI**  
 QU'IL fléchisse Édouard il comblera mes voeux  
 J'ai dû vous annoncer un ordre rigoureux  
 Mais je peux vous montrer, fous un front moins suneste  
@@ -865,7 +866,7 @@ Est une Loi d'État un devoir politique
 Et je crains que d'Harcourt l'impétueux courroux  
 En voulant vous sauver, ne le perde avec vous.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Eh ! bien le désespoir éclaire mon courage  
 Pourquoi tourner sur nous notre inutile rage ?  
 En courant à la mort d'un visage affermi  
@@ -883,7 +884,7 @@ Elle peut entraîner ses Vainqueurs dans sa tombe
 Expirons dans leur sang : que notre Pays  
 En perdant ses Vengeurs, compte moins d'Ennemis.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Faisons plus Vous voyez qu'illustrant ses ruines  
 La France est maintenant féconde en Héroïnes  
 L'Épouse d'Édouard l'altière Monfort  
@@ -902,7 +903,7 @@ Vers la Justice enfin ramener le Bonheur.
 
 *(Les Bourgeois veulent encore sortir.)*  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Français, où courez-vous Quel transport vous égare  
 L'Héroïsme, en vos coeurs, ne peut être barbare.  
 
@@ -926,16 +927,16 @@ De livrer des Français à qui l'Honneur nous lie
 Mais pour fuir cette honte il est un choix permis  
 Je livre le premier... moi-même.  
 
-AURELE vivement  
+**AURELE*** vivement*  
 Et votre Fils  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Oui, tu dois partager la gloire de ton Père.  
 
-AURELE, se jettant à ses pieds  
+**AURELE***, se jettant à ses pieds*  
 Grand Dieu ! qu'en ce moment ma naissance m'est chère !  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Patrie, ah ! tombe aux piés de ton Libérateur  
 Que dis-je ? en la sauvant, il lui perce le coeur  
 O Sacrifice affreux plein d'horreur de charmes !  
@@ -948,16 +949,16 @@ Aux yeux de votre Roi sont les plus criminels
 Ce sont eux, les premiers, que sa haine menace  
 Après ces deux Héros il a marqué ma place.  
 
-MAUNI, à part les larmes aux yeux  
+**MAUNI***, à part les larmes aux yeux*  
 Dieu ! que ne suis-je né dans les murs de Calais ?  
 
-ALIÉNOR, le surprenant, avec vivacité  
+**ALIÉNOR***, le surprenant, avec vivacité*  
 Citoyens, jouissez des pleurs de cet Anglais...  
 Plus faite à vos vertus, en paix je les contemple  
 Mais leur plus digne éloge est d'en suivre l'exemple  
 Oui ....  
 
-SAINT-PIERRE, très-vivement  
+**SAINT-PIERRE***, très-vivement*  
 Madame arrêtez Je conçois votre espoir  
 De nos Sexes ici distinguez le devoir  
 Je puis, sans faire outrage à la gloire du vôtre  
@@ -997,12 +998,12 @@ Nous irons lui livrer sa nouvelle conquête.
 Adieu voyez mon Maître qu'il soit informé  
 Comment il fut servi, combien il est aimé.  
 
-MAUNI, à Aliénor  
+**MAUNI***, à Aliénor*  
 Edouard en ces lieux vous prescrit de l'attendre  
 Madame ; de vos soins leur grace peut dépendre  
 J'ignore ses desseins, mais....  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Que veut-il de moi ?  
 
 *A Saint-Pierre*  
@@ -1011,7 +1012,7 @@ Magnanime Héros, je te donne ma foi
 De ne point consentir à racheter ta vie  
 Que par des actions que ta grande âme envie.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Ah ! voilà la vertu qui sied à votre coeur  
 Bravez plus que la Mort, en bravant le Malheur.  
 
@@ -1026,7 +1027,7 @@ Bravez plus que la Mort, en bravant le Malheur.
 * CHEVALIERS ANGLAIS  
 * GARDES  
 
-ÉDOUARD  
+**ÉDOUARD**  
 ELLE est soumise enfin cette superbe Ville  
 J'ai ployé fous le joug son orgueil indocile  
 Et je puis, dans son sein, rassembler désormais  
@@ -1059,7 +1060,7 @@ Sortez tous.
 * ÉDOUARD  
 * HARCOURT  
 
-ÉDOUARD  
+**ÉDOUARD**  
 JE te dois cette heureuse conquête  
 Prémices des lauriers que la Gloire m'apprête  
 Ton zèle, de mon fils, guidant la jeune ardeur  
@@ -1096,8 +1097,8 @@ N'ai-je pas vu moi-même un Sénat téméraire
 De son Thrône avili précipiter mon Père  
 Charger, couvrir d'affronts son Monarque enchaîné  
 Pour recevoir des loix d'un Enfant couronné  
-Mais que voyais-je en France Un Roi Maître suprême E
-n qui vous révérez la Divinité même  
+Mais que voyais-je en France Un Roi Maître suprême  
+En qui vous révérez la Divinité même  
 Des Grands, que son pouvoir a seul rendu puissans  
 Du bras qui les soutient appuis reconnaissans  
 Un Peuple doux, sensible... une Famille immense  
@@ -1109,12 +1110,12 @@ Ne demande au Destin le Peuple qu'il te donne
 Rendre heureux qui nous aime est un si doux devoir  
 Pour te faire adorer, tu n'as qu'à le vouloir.  
 
-HARCOURT  
+**HARCOURT**  
 Seigneur à cet excès la France vous est chère  
 De ses Peuples aimés vous voulez être Père  
 Et je vois, sur Calais, votre extrême rigueur...  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Quand il est dédaigné, l'amour devient fureur  
 Eh ! pourrais-je inventer un supplice trop rude  
 Pour punir tant d'affronts tant d'ingratitude  
@@ -1131,10 +1132,10 @@ Les dangers d'Aliénor m'ont allarmé pour toi
 Et ces six criminels borneront ma vengeance  
 C'est en vain que pour eux tu pressais ma clémence.  
 
-HARCOURT  
+**HARCOURT**  
 Eh ! quoi ! vous me flattiez qu'en généreux Vainqueur...  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Ce que je viens de voir met la rage en mon coeur  
 Ce Peuple de mourans, ces déplorables restes  
 Des foudres de la Guerre des fléaux célestes,  
@@ -1158,24 +1159,24 @@ On lui nomme son Roi, je le vois consolé.
 
 *Les six Bourgeois ont des chaînes aux mains*  
 
-MAUNI  
+**MAUNI**  
 PAR votre ordre Seigneur, j'amène vos victimes.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Perfides, qui, longtems illustrés par vos crimes  
 Outragiez le Vainqueur le Roi des Français....  
 
-AURELE  
+**AURELE**  
 Vous, leur Roi ?  
 
-SAINT-PIERRE, à son fils  
+**SAINT-PIERRE***, à son fils*  
 Titre vain, sans l'aveu des Sujets.  
 
 *A Edouard*  
 
 Aux pieds de mon Vainqueur j'apporte ici ma tête.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Croi qu'elle y va tomber : ton supplice s'apprête  
 Sois sûr que l'Echaffaud, où tu seras livré  
 Du Thrône qui m'attend est le premier degré  
@@ -1186,7 +1187,7 @@ Une vaste Cité sans un seul Citoyen
 Des toits, de vains séjours qu'habite le silence  
 Et d'un amas de murs la solitude immense.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Dans Londre, à vos vertus, tous les coeurs vont s'offrir  
 Valois n'en laisse point en France à conquérir  
 Le Peuple de Calais instruit votre prudence  
@@ -1194,26 +1195,26 @@ Dussent tous les Français s'exiler de la France
 Si vous prétendez voir nos Cités vous servir a  
 De nouveaux Citoyens il faudra les remplir.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Va ton sang éteindra l'ardeur de ce faux zèle  
 Et bien-tôt la Terreur glace un Peuple rebelle.  
 Mais.... qui sont ceux de vous dont le Sort a fait choix ?  
 
-SAINT-PIERRE, les montrant  
+**SAINT-PIERRE***, les montrant*  
 D'Aire, les deux Wissans Noms obscurs autrefois  
 Maintenant immortels aux fastes de l'Histoire  
 Dans ma seule Famille ont renfermé la gloire  
 Dont tous nos Citoyens se montraient si jaloux.  
 
-ÉDOUARD, avec une surprise mêlée d'admiration  
+**ÉDOUARD***, avec une surprise mêlée d'admiration*  
 Quoi ! c'est-là ta Famille ?  
 
-AMBLÉTUSE, ou un autre Bourgeois  
+**AMBLÉTUSE***, ou un autre Bourgeois*  
 Oui ; quel honneur pour nous !  
 Valois, sans vos rigueurs, n'aurait pû nous connaître  
 Et nous allons mourir pleurés par notre Maître.  
 
-AURELE, avec vivacité  
+**AURELE***, avec vivacité*  
 Que n'avez-Vous pû voir le triomphe inouï  
 Dont par vous seul Seigneur, nos regards ont jouï  
 Quand ce Peuple, quittant des demeures si chères  
@@ -1227,12 +1228,12 @@ Leurs fils venaient baiser la trace de nos pas
 Nos visages, nos mains se trempaient dans leurs larmes...  
 Ah ! Seigneur la Victoire. eut pour vous moins de charmes.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Tout m'étonne m'irrite...  
 Ah ! c'est trop me braver  
 De ma juste fureur rien ne les peut sauver.  
 
-HARCOURT  
+**HARCOURT**  
 J'en appèle à vous-même, je prends leur défense  
 Vous aviez, à mon choix, remis ma récompense  
 Quand mes voeux modérés, retranchant vos bienfaits  
@@ -1242,10 +1243,10 @@ Que le sang des Français souille encor ma Victoire
 C'est-là l'unique prix que je veux obtenir  
 En partant pour l'éxil où mes jours vont finir.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Quel discours ! Un éxil !  
 
-HARCOURT  
+**HARCOURT**  
 Je ne puis vous le taire  
 Mes yeux sont dessilés par la mort de mon Frère :  
 Ah ! mon zèle pour vous m'a fait son assassin  
@@ -1260,7 +1261,7 @@ Je vais, près du Jourdain, rejoindre ces Guerriers
 Dont un sang fraternel ne teint pas les lauriers  
 Et le mien....  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Quel transport de votre âme s'empare  
 Dans quel oubli honteux la douleur vous égare  
 Pleurez la mort d'un Frère, surtout ses erreurs  
@@ -1271,21 +1272,21 @@ Mais quoi ! c'est en son Chef, en Moi qu'elle reside,
 
 Non dans l'obscur ramas de ce Peuple perfide.  
 
-HARCOURT  
+**HARCOURT**  
 Seigneur....  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Écoutez-moi  
 Bien loin de consentir   
 A cet éxil suspect.... que je dois prévenir  
 Si j'épargnais, pour vous, ce Maire ses complices  
 Je voudrais, par leur grace, enchaîner vos services.  
 
-SAINT-PIERRE, vivement à Harcourt  
+**SAINT-PIERRE***, vivement à Harcourt*  
 Ne la méritez pas Votre noble remord   
 S'il vous rend à mon Roi, paye assez notre mort.  
 
-ÉDOUARD, à Saint-Pierre  
+**ÉDOUARD***, à Saint-Pierre*  
 Sortez.  
 
 *A des Soldats*  
@@ -1296,18 +1297,15 @@ Qu'ils attendent l'Arrêt que je dois vous prescrire
 *Les Bourgeois sortent*  
 *A d'autres Soldats*  
 
-Appelez Aliénor..  
-Non ; vous-même  
-
-Mauni  
+Appelez Aliénor.. Non ; vous-même, Mauni  
 Priez la de vous suivre de se rendre ici.  
 
 *Mauni sort*  
 
-HARCOURT  
-Quoi ! Seigneur Aliénor  
+**HARCOURT**  
+Quoi ! Seigneur, Aliénor  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Dans le trouble où vous ètes  
 Vous répondriez mal à mes bontés secrettes  
 J'attendais ce grand jour pour les faire éclatter..  
@@ -1317,10 +1315,10 @@ Regler, dans vos destins, les destins de la France
 Et décider du fort de ces vils Citoyens  
 Dont vous osez mêler les intérêts aux miens.  
 
-HARCOURT  
+**HARCOURT**  
 Vous esperez en vain  
 
-ÉDOUARD  
+**ÉDOUARD**  
 
 *A Mauni*  
 
@@ -1336,7 +1334,7 @@ Allez.
 * ÉDOUARD  
 * ALIÉNOR  
 
-ÉDOUARD  
+**ÉDOUARD**  
 TANT de vertus ornent votre jeunesse   
 Que leur éclat célèbre éxige des tributs  
 Jusqu'ici dans mon coeur à regret suspendus  
@@ -1372,21 +1370,21 @@ Vous serez mon égale Reine en mon absence
 C'est au Thrône, en un mot, que vous pouvez monter  
 Mon estime vous l'offre, osez le mériter.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 J'oserai plus Seigneur... mais, sans que je l'annonce  
 Puisque vous m'estimez vous savez ma réponse.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Croyez-moi, consultez un Père....  
 
-ALIÉNOR,  
+**ALIÉNOR***,*  
 Moi Seigneur !  
 Je ne l'outrage point... j'ai consulté mon coeur.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 J'entends ce fier refus Mais Vienne plus facile...  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ah ! n'en attendez point un refus si tranquille  
 Mais si le poids de l'âge eût ébranlé sa foi  
 Je pleurerais mon Père servirais mon Roi  
@@ -1395,11 +1393,11 @@ Dès le premier moment qu'il vous choisit pour Maître
 Mais à vos dons nouveaux s'il vend son repentir  
 L'Amour ne daigne plus l'honorer d'un soupir.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Cet excès de hauteur a lieu de me surprendre  
 Votre Maître au respect devait du moins s'attendre.  
 
-ALIÉNOR, se levant  
+**ALIÉNOR***, se levant*  
 Vous n'êtes point mon Maître, vous savez nos Loix  
 Je respecte Edouard.... s'il respecte Valois.  
 ÉDOUARD, se levant aussi avec vivacité.  
@@ -1420,7 +1418,7 @@ M'a transmis, sur les Lys, un titre légitime
 Qui peut d'un droit si saint me priver désormais  
 Quel autre doit règner sur la France ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Un Français Lorsqu'en nommant un Roi, nos généreux Ancêtres  
 Ont nommé dans ses Fils la race de nos Maîtres  
 Quand des Soldats vainqueurs portaient sur un Pavois  
@@ -1448,7 +1446,7 @@ De l'Empire des Lys fondement vertueux
 Et qui, le distinguant par les plus nobles marques  
 Fait à cent Souverains envier nos Monarques.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Vous irritez l'ardeur dont je fuis enflammé  
 C'est moi qu'à cet excès j'aurais dû voir aimé  
 Peuple ingrat !... Mais il faut que ta haine fléchisse  
@@ -1464,7 +1462,7 @@ Dont vous pouviez sauver les têtes criminelles
 L'honneur de conquérir votre Père vous  
 M'allait faire pour eux oublier mon courroux.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Je le vois à regret Seigneur ; la Renommée  
 Vous peint fidèlement à l'Europe allarmée  
 Autant vous déployez de grace de douceur  
@@ -1478,7 +1476,7 @@ Et ma gloire n'est point la rançon de leur vie
 Plus qu'eux – même il est vrai, leur mort me fait frémir.....  
 Je verrai leur courage : il pourra m'affermir.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Vous les immolez donc par votre orgueil barbare  
 Gardes... que, sans tarder, l'échaffaud se prépare.  
 
@@ -1488,22 +1486,22 @@ Gardes... que, sans tarder, l'échaffaud se prépare.
 * HARCOURT  
 * ALIÉNOR  
 
-ALIÉNOR, voyant Harcourt qui entre avec les Gardes  
+**ALIÉNOR***, voyant Harcourt qui entre avec les Gardes*  
 AH ! de nos Citoyens viens défendre les jours  
 Songe à quel titre ici tu leur dois tes secours  
 Toi seul les as perdus ; s'ils meurent, j'expire.  
 
-HARCOURT, vivement à Edouard  
+**HARCOURT***, vivement à Edouard*  
 A tant de cruauté pourrez-vous bien souscrire  
 La valeur de ce Maire ses rares vertus.....  
 
-ÉDOUARD  
+**ÉDOUARD**  
 La valeur d'un Rebelle est un crime de plus.  
 
-HARCOURT  
+**HARCOURT**  
 Qu'entends-je ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 
 *A Harcourt*  
 *A Edouard*  
@@ -1537,7 +1535,7 @@ Que tu m'as fait serment... de ne leur point survivre.
 * ÉDOUARD  
 * HARCOURT  
 
-ÉDOUARD  
+**ÉDOUARD**  
 QUOI ! je veux pardonner, on me force à punir  
 Je vois, par mes bontés, tous les coeurs s'endurcir  
 Savez-vous bien quel prix j'ai mis à ma clémence  
@@ -1545,7 +1543,7 @@ Je voulais vous nommer Vice-Roi de la France
 Par l'Hymen d'Aliénor combler votre bonheur  
 Elle a refusé tout.  
 
-HARCOURT  
+**HARCOURT**  
 Elle l'a dû Seigneur.  
 Puis-je me plaindre hélas ! de sa vertu sévère ?...  
 Si j'accepte vos dons, je vends le sang d'un Frère  
@@ -1570,16 +1568,15 @@ Seigneur à tout mortel l'erreur est excusable
 Un Prince y peut tomber sans devenir coupable  
 Il l'est, si sa fierté refuse d'en sortir.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Vous voulez me quitter croyez me fléchir !  
 Vous pensez, pour autrui, désarmer ma vengeance  
 Quand vous vous apprétez à trahir ma clémence !  
 Non non Avec plaisir je perds ces malheureux  
 Puisque c'est vous Ingrat, que je punis sur eux.  
 
-HARCOURT  
-Ingrat !  
-Qu'ai-je reçu pour prix de mes services  
+**HARCOURT**  
+Ingrat ! Qu'ai-je reçu pour prix de mes services  
 J'aspire à vous sauver d'horribles injustices ;  
 Écoutez ma prière c'est vous acquitter  
 Vos reproches cruels me forcent d'ajouter  
@@ -1588,9 +1585,8 @@ Sur elles, près de vous j'ai des droits légitimes
 Si je n'eusse vaincu dans les champs de Créci  
 Auriez-vous une grace à refuser ici ?  
 
-ÉDOUARD  
-C'en est trop  
-Réprimez cette audace importune  
+**ÉDOUARD**  
+C'en est trop Réprimez cette audace importune  
 Vous avais-je mandé lorsque votre infortune  
 Vint, par mes prompts secours, relever ses débris  
 Vos services dès-lors sont des devoirs remplis  
@@ -1603,7 +1599,7 @@ Ceux de qui l'insolence en perd le souvenir.
 
 ### SCENE VII  
 
-HARCOURT, seul  
+**HARCOURT***, seul*  
 QUELLE confusion, & quel reproche infâme !  
 Je ne vis plus.... la Honte est le néant de l'Ame.  
 Voilà le terme affreux du bonheur passager  
@@ -1625,12 +1621,11 @@ Il serait mort moins grand, s'il eût vécu sans crime.
 
 *Fin du troisième Acte*  
 
-*Plusieurs Personnes ont exigé que l'on rétablît les deux premiers  
-Vers de ce Monologue, qui n'ont pas été bien entendus à la première représentation, qui ont été changés ainsi aux représentations suivantes :  
+*Plusieurs Personnes ont exigé que l'on rétablît les deux premiers vers de ce Monologue, qui n'ont pas été bien entendus à la première représentation, qui ont été changés ainsi aux représentations suivantes :*  
 
 Ah ! je respire à peine, cette honte infâme  
 Dans un Néant affreux semble plonger mon âme  
-Voilà le terme, hélas ! & c.*  
+Voilà le terme, hélas ! & c.  
 
 ## ACTE IV  
 
@@ -1643,7 +1638,7 @@ Voilà le terme, hélas ! & c.*
 * AMBLÉTUSE  
 * LES TROIS AUTRES BOURGEOIS  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 O MON Fils ! mes Amis ! qui l'eût pensé jamais  
 Que nous habiterions ce séjour des forfaits  
 Ah ! sans doute, avant nous, ces chaînes flétrissantes  
@@ -1665,7 +1660,7 @@ Ces délices du coeur, ces larmes de plaisir
 Qu'après le beau succès de leurs efforts suprêmes  
 Répandent les Vertus contentes d'elles-mêmes.  
 
-AURELE  
+**AURELE**  
 Ah ! que, né d'un tel Père, un Fils s'en applaudit !  
 Mon âme, entre vos bras, s'enflamme & s'aggrandit  
 Voilà comme aux Vertus, guidant mes pas dociles  
@@ -1681,7 +1676,7 @@ Qui, son opprobre Amis, nous donne un plus beau lustre.
 Aux Victimes d'Etat qui livrent leur grand coeur  
 Ce Théâtre de honte est l'Autel de l'honneur.  
 
-SAINT-PIERRE, lui montrant les Bourgeois  
+**SAINT-PIERRE***, lui montrant les Bourgeois*  
 Ah ! j' y crois voir leur sang, le tien qui se confondent...  
 A tes derniers sanglots mes entrailles répondent.  
 
@@ -1704,7 +1699,7 @@ Il marche au sacrifice, il frémit.... l'achève.
 * MAUNI  
 * LES SIX BOURGEOIS  
 
-MAUNI, à Saint-Pierre, en lui prenant la main.  
+**MAUNI***, à Saint-Pierre, en lui prenant la main.*  
 JE viens, digne Français, t'apporter des tributs  
 Que le plus juste orgueil n'aurait pas attendus  
 Nos Chevaliers Anglais jaloux de ton courage  
@@ -1733,13 +1728,13 @@ Pour ne la point servir dans leur propre Cité
 Fils ingrats, vils fardeaux du sein qui les fit naître  
 Et dignes du Néant, par l'oubli de leur Etre.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Nous l'avouerons sans fard ; mourant pour les Français  
 Nous espèrons laisser des noms chers aux Anglais  
 Plus rivaux qu'ennemis d'un Peuple magnanime  
 Notre plus beau laurier Seigneur, est son estime.  
 
-MAUNI  
+**MAUNI**  
 Cette estime n'est pas un titre infructueux  
 Sachez quels sont pour vous nos efforts vertueux  
 L'Épouse d'Édouard, l'intrépide Isabelle  
@@ -1757,11 +1752,11 @@ Sans doute par ses soins va se voir adouci
 La Nature l'Amour pour vous d'intelligence  
 Vont éteindre en son coeur cette soif de Vengeance.  
 
-AURELE, avec transport  
+**AURELE***, avec transport*  
 Mon Père..  
 Ah ! vous vivrez.  
 
-MAUNI  
+**MAUNI**  
 Après son noble effort  
 Vivant il jouira de l'honneur de sa mort  
 Mais je vois Aliénor ses vives allarmes...  
@@ -1772,7 +1767,7 @@ Mais je vois Aliénor ses vives allarmes...
 * MAUNI  
 * LES SIX BOURGEOIS  
 
-ALIÉNOR  
+**ALIÉNOR**  
 ILLUSTRES Malheureux, pardonnez à mes larmes  
 On daigne en me forçant de partir de ces lieux  
 Laisser quelques momens... à mes derniers adieux  
@@ -1784,11 +1779,11 @@ Sa voix ses sanglots expiraient dans sa bouche
 Ce seul mot a rompu son silence farouche  
 Ils vont mourir... il suit en m'arrachant le coeur.  
 
-MAUNI  
+**MAUNI**  
 Quoi ! Rien n'a désarmé le courroux du Vainqueur  
 Ni les pleurs de son Fils, ni les pleurs de la Reine ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Eh ! que peut la Pitié sur cette âme inhumaine  
 N'a-t-il pas vu vingt fois d'un oeil tranquille fier  
 Tomber des Légions fous la flâme le fer  
@@ -1801,17 +1796,17 @@ Il vous croit trop heureux d'acheter ses conquête
 Des pleurs hélas ! des pleurs peuvent-ils amollir  
 Un coeur qui dans le sang apprit à s'endurcir ?  
 
-MAUNI  
+**MAUNI**  
 Ah ! tant de résistance irrite mon audace  
 Dût mon zèle rigide assûrer ma disgrace,  
 Faisons parler enfin la dure Vérité  
 D'un Homme d'un Anglais montrons la liberté.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Généreux Ennemi, qu'allez-vous entreprendre  
 Ah ! daignez écouter  
 
-MAUNI  
+**MAUNI**  
 Je ne puis rien entendre  
 Le danger quel qu'il soit, est moins pressant pour vous  
 Il vous couvre de gloire, la honte est pour nous.  
@@ -1823,7 +1818,7 @@ Il vous couvre de gloire, la honte est pour nous.
 * ALIÉNOR  
 * LES SIX BOURGEOIS  
 
-ALIÉNOR  
+**ALIÉNOR**  
 AH ! du coeur d'Édouard c'esf en vain qu'il espère  
 Il est inexorable tout craint sa colère  
 Tel est son ascendant sur l'esprit des Soldats  
@@ -1833,11 +1828,11 @@ Mes cris, mon désespoir mes refus l'ont aigrie.
 Hélas ! votre salut en mes mains fut remis  
 Mais je rougirais trop de vous dire à quel prix....  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Vous avez fait le choix qu'on nous aurait vu faire  
 N'en parlons plus Quel est le fort de votre Père ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Lui seul pour vous encor me peut faire entrevoir  
 La tremblante lueur d'un faible doux espoir.  
 Édouard, consommant ses affreux Sacrifices  
@@ -1853,7 +1848,7 @@ Des Sujets tels que vous valent le plus grand Prince
 Il va mettre à vos jours le même prix qu'aux siens  
 Et la rançon des Rois est due à leurs Soutiens.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Inspire mieux mon Maître, ô Puissance céleste !  
 Et défends sa bonté d'un conseil si funeste  
 Partez opposez-vous à ce dangereux soin  
@@ -1881,7 +1876,7 @@ Que ces jours qu'il croyait regretter sans retour
 Voilà de notre mort les fruits inséparables  
 Notre sang va partout enfanter nos semblables.  
 
-AMBLÉTUSE  
+**AMBLÉTUSE**  
 Bien plus Si du Destin les nouvelles rigueurs  
 Chez nos Neveux un jour ramenaient nos malheurs ;  
 Du Héros de Calais l'impérieux exemple  
@@ -1895,7 +1890,7 @@ Par une belle mort se survit à jamais
 Et qu'après un long cours de Siècles d'années  
 De sa Patrie encore on fait les destinées.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 O courage ! ô Vertu ! dont l'héroïque ardeur ;  
 Étonnant la raison s'empare de mon coeur  
 Ils sont presque approuver à mon âme ravie  
@@ -1918,13 +1913,13 @@ Les offres de Valois arriveront trop tard.
 * UN OFFICIER ANGLAIS  
 * GARDES  
 
-L'OFFICIER  
+**L'OFFICIER**  
 MADAME, éloignez-vous Toujours plus implacable,  
 Édouard a signé cet Arrêt exécrable  
 Si vous ne vous hâtez de fuir ces tristes lieux  
 On va sur l'échaffaud les conduire à vos yeux.  
 
-ALIÉNOR, à sa Suivante  
+**ALIÉNOR***, à sa Suivante*  
 Fuyons... Soutenez-moi La force m'abandonne  
 L'appareil de leur mort me suit m'environne.  
 
@@ -1934,10 +1929,10 @@ Mon Père pardonnez, je tombe dans vos bras
 Recevez ce doux nom que je vous dois : hélas !  
 Vous m'avez inspiré la Vertu....  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Le courage.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ah ! ce fatal moment n'en permet point l'usage.  
 Pleurer ceux qu'on admire est-ce les offenser ?..  
 Que n'ai-je sur Harcourt de tels pleurs à verser  
@@ -1945,10 +1940,10 @@ Quoi ! le fer va frapper le Fils auprès du Père
 Sur les corps expirans de leur Famille entière !  
 L'horreur glace mes sens m'étouffe la voix.  
 
-SAINT-PIERRE, un peu attendri  
+**SAINT-PIERRE***, un peu attendri*  
 Adieu Madame.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Adieu, pour la derniere fois.  
 
 *Elle sort*  
@@ -1960,21 +1955,21 @@ Adieu, pour la derniere fois.
 * L'OFFICIER  
 * GARDES  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 FAUT-IL vous suivre ?  
 
-L'OFFICIER  
+**L'OFFICIER**  
 Hélas ! j'attends l'ordre terrible.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Anglais, vous pleurez tous.  
 
-L'OFFICIER  
+**L'OFFICIER**  
 Ton courage invincible  
 Semble épuiser le mien.. Quel surcroît de douleurs  
 Quand la Vertu sourit à ses bourreaux en pleurs !  
 
-SAINT-PIERRE, embrassant les Bourgeois  
+**SAINT-PIERRE***, embrassant les Bourgeois*  
 On vient Embrassons-nous.. Je marche à votre tête  
 Martyrs de la Patrie, allons, la palme est prête.  
 
@@ -1991,7 +1986,7 @@ Mais.... que nous veut Harcourt ?
 * L'OFFICIER  
 * GARDES  
 
-HARCOURT, à l'Officier aux Gardes  
+**HARCOURT***, à l'Officier aux Gardes*  
 SORTEZ, braves Guerriers  
 J'ai des ordres secrets pour voir ces Prisonniers.  
 
@@ -2009,17 +2004,17 @@ Cette main fume encor du sang de votre Fils
 Mais je viens adoucir le fort qui vous menace  
 De ce jeune Guerrier j'apporte ici la grace.  
 
-SAINT – PIERRE avec joie  
+**SAINT–PIERRE*** avec joie*  
 Ciel !  
 
-HARCOURT  
+**HARCOURT**  
 Il serait affreux que du commun malheur  
 Une seule Famille épuisât la rigueur....  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Quoi !... quelqu'autre pour lui s'offre-t-il au supplice ?  
 
-HARCOURT  
+**HARCOURT**  
 
 *[Vivement, comme une chose qui lui échappe,]*  
 
@@ -2034,41 +2029,41 @@ Plus que votre trépas rendez vos jours utiles
 Vous pourrez, dans une heure, assurer à mon Roi  
 Qu'Harcourt ne mourra pas sans lui prouver sa foi,  
 
-AURELE  
+**AURELE**  
 Mon Père... Non Seigneur Qui ? moi, que j'abandonne....  
 
-HARCOURT  
+**HARCOURT**  
 C'est au nom d'Édouard qu'ici je vous l'ordonne  
 Partez.  
 
-AURELE avec fureur  
+**AURELE*** avec fureur*  
 Quel est celui dont l'injuste Vertu  
 S'offrant pour me sauver....  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Eh ! le méconnais-tu ?..  
 C'est Harcourt.  
 
-HARCOURT, troublé  
+**HARCOURT***, troublé*  
 Moi !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Vous-même Oui, je lis dans votre âme  
 J'y surprends un projet que j'admire je blâme  
 Vous juriez ce matin de nous suivre au trépas  
 Vous trompez Édouard, vous ne m'abusez pas.  
 
-HARCOURT  
+**HARCOURT**  
 Eh bien ! s'il était vrai, ce projet équitable  
 Qui, sauvant l'innocent, devouerait le coupable ?  
 
-AURELE  
+**AURELE**  
 Quoi ! je consentirais ?  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Vous oseriez penser ?....  
 
-HARCOURT, impétueusement  
+**HARCOURT***, impétueusement*  
 Il doit y consentir, vous l'y devez forcer  
 Je conçois vos refus, j'entreprends de les vaincre  
 C'est peu de vous toucher, j'aspire à vous convaincre  
@@ -2108,44 +2103,43 @@ Eh bien ! ce tendre espoir vous arrache des larmes...
 
 Pars, accepte ce fer, rends l'honneur à mes armes.  
 
-AURELE  
+**AURELE**  
 Moi, tromper Edouard, fuir me parjurer  
 De mon Père expirant oser me séparer  
 Moi, qui m'étais flatté qu'une pitié soudaine  
 Voyant tomber ma tête épargnerait la sienne !  
 
-HARCOURT  
+**HARCOURT**  
 Tu redoubles ses maux en y joignant les tiens.  
 
-AURELE  
+**AURELE**  
 Je soulage mes maux en partageant les siens.  
 
-HARCOURT  
+**HARCOURT**  
 L'espoir de la venger....  
 
-AURELE  
+**AURELE**  
 L'horreur de lui survivre.....  
 
-HARCOURT  
+**HARCOURT**  
 Te défend de mourir.  
 
-AURELE  
+**AURELE**  
 Me contraint de le suivre.  
 
-HARCOURT  
+**HARCOURT**  
 Malheureux, mais nos jours sont le bien de l'Etat.  
 
-AURELE  
+**AURELE**  
 Vivez donc en Héros, moi je meurs en Soldat  
 Les besoins de l'Etat demandent un Grand Homme  
 La France vous regarde la Gloire vous nomme.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 
 *A Harcourt*  
 
-Mon fils, mon digne fils  
-Calmez ces vains transports  
+Mon fils, mon digne fils Calmez ces vains transports  
 L'aveugle désespoir égare vos remords  
 Seigneur Eh ! se peut-il que votre âme séduite  
 Pense qu'envers mon Roi votre mort vous acquitte  
@@ -2170,7 +2164,7 @@ Allez, que mon Pays vous doive son bonheur
 Je vous mets dans les bras de la France affligée  
 Expirez digne d'elle, après l'avoir vengée.  
 
-HARCOURT  
+**HARCOURT**  
 Ah ! peut-elle jamais me confier son sort ?  
 
 ### SCENE VIII  
@@ -2179,7 +2173,7 @@ Ah ! peut-elle jamais me confier son sort ?
 * L'OFFICIER  
 * GARDES  
 
-L'OFFICIER, à Harcourt  
+**L'OFFICIER***, à Harcourt*  
 SEIGNEUR, l'ordre est venu... je les mène à la mort.  
 HARCOURT, à Saint-Pierre à son fils.  
 Vous triomphez, cruels ! votre affreuse constance  
@@ -2188,7 +2182,7 @@ Mais, avant votre mort, venez voir mon trépas.
 
 *Il sort furieux*  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 
 *A son fils*  
 
@@ -2204,7 +2198,7 @@ Viens mourir dans mes bras.
 * ÉDOUARD  
 * MAUNI  
 
-ÉDOUARD  
+**ÉDOUARD**  
 J'AI pesé vos raisons, j'en conçois l'importance  
 Souvent la Politique invite à la Clémence  
 J'excuse, dans Harcourt, une aveugle chaleur  
@@ -2228,7 +2222,7 @@ Sur ces derniers Humains nés nourris loin d'eux
 Ce Maire a vu de près l'appareil du supplice  
 Qu'il vienne en ce moment.  
 
-MAUNI  
+**MAUNI**  
 Je doute qu'il fléchisse  
 O mon Roi ! si son coeur résiste à vos efforts  
 Vous êtes grand, mais fier : redoutez vos transports.  
@@ -2240,7 +2234,7 @@ Vous êtes grand, mais fier : redoutez vos transports.
 * ÉDOUARD  
 * SAINT-PIERRE  
 
-ÉDOUARD, assis  
+**ÉDOUARD***, assis*  
 VIens, superbe Ennemi, qui prends pour l'Héroïsme  
 Le courage insensé d'un ardent Fanatisme  
 Un Monarque indulgent qui chérit les Vertus  
@@ -2270,7 +2264,7 @@ Va, les seuls Rois heureux ont une Cour fidèle
 Et si je règne enfin, tu n'es dans l'avenir  
 Qu'un Criminel obscur que la Loi fit punir.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Seigneur, j'ai desiré, pour prix de mon courage  
 Le bien de mon Pays, sa gloire, son suffrage  
 Si la France succombe enfin sous vos exploits  
@@ -2288,10 +2282,10 @@ Mais le Français combat l'Ennemi qu'il admire
 Leur valeur va s'accroître encor par vos bienfaits  
 Ils voudront en Vainqueurs, ... les rendre à vos Sujets.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Mais comptes-tu pour rien la faveur légitime  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 J'aurais votre faveur, perdrais votre estime  
 Vous méprisiez d'Artois en le comblant d'honneurs  
 Vous allez m'envier chargé de vos rigueurs  
@@ -2306,7 +2300,7 @@ Trompé par ses Rivaux est ce à lui d'en rougir
 Eh ! comment à mon Roi deviendrais-je infidèle  
 Quand j'ai devant les yeux sa vertu pour modèle ?  
 
-ÉDOUARD, se levant  
+**ÉDOUARD***, se levant*  
 Eh ! bien ! cours au Trépas, que tu sembles chercher  
 Ton insolent Orgueil te pourra coûter cher  
 A la Rébellion tu joins encor l'outrage !  
@@ -2316,16 +2310,17 @@ Repaisse, avant ta mort, ton oeil dénaturé
 Toi seul es son bourreau ; ses derniers cris peut-être  
 Dans le fond de ton coeur me vengeront d'un Traître.  
 
-SAINT-PIERRE, tremblant  
+**SAINT-PIERRE***, tremblant*  
 O mon Fils ! quel moment pour ce coeur paternel !.  
 
 *Reprenant sa fermeté*  
+
 Mais... tu souffrirais plus à me voir criminel.  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Inhumain !  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 C'est trop perdre menace promesse »  
 J'ai honte que pour moi tant de fierté s'abbaisse :  
 Je crois voir sur nous deux les yeux de l'Univers  
@@ -2335,7 +2330,7 @@ Pour corrompre un Sujet épuisant son génie
 Quel Mortel, de mon sort, ne serait pas jaloux  
 Vous me forcez Seigneur... d'être plus grand que Vous.  
 
-EDOUARD  
+**EDOUARD**  
 
 *Mauni entre avec les Gardes*  
 
@@ -2351,7 +2346,7 @@ Gardes.. Qu'avec les siens on le traîne au supplice.
 * UN HÉRAULT D'ARMES  
 * GARDES  
 
-ALIÉNOR, à Mauni, voyant qu'on emmène Saint-Pierre  
+**ALIÉNOR***, à Mauni, voyant qu'on emmène Saint-Pierre*  
 AH ! Mauni, suspendez ce fatal sacrifice.  
 
 *A Édouard. Mauni sort*  
@@ -2365,7 +2360,7 @@ Lui-même, en cet écrit, l'a tracé de sa main
 Mais on fait seulement qu'une offre inespérée  
 De ses Sujets proscrits rend la grace assurée.  
 
-ÉDOUARD, lisant la lettre  
+**ÉDOUARD***, lisant la lettre*  
 » Toi, qui t'osant nommer le vrai Roi des Français, »  
 Dans les flots de leur sang sais chanceler leur Thrône ; »  
 Si tu veux épargner les Héros de Calais, »  
@@ -2388,7 +2383,7 @@ Valois.. mérite enfin de disputer mon Thrône.
 Va qu'il choisisse l'heure fasse ouvrir le champ  
 Cours, je me rends moi-même aux bornes de son Camp.  
 
-ALIÉNOR, au Hérault  
+**ALIÉNOR***, au Hérault*  
 Arrête Il faut apprendre aux Français qui l'ignorent  
 Cet excès de vertu du Maître qu'ils adorent  
 Peuple, ton Souverain veut s'exposer pour toi ;  
@@ -2409,11 +2404,11 @@ Mais.. Melun dans ces lieux.
 * LE HÉRAULT D'ARMES  
 * GARDES  
 
-ALIÉNOR  
+**ALIÉNOR**  
 AH ! Comte, savez-vous  
 Pour quel dessein le Roi vient de nous tromper tous ?  
 
-MELUN  
+**MELUN**  
 J'ai surpris dévoilé, publié ce mystère  
 Et j'accours, sur le cri de notre Armée entière  
 Désavouer du Roi l'imprudente valeur  
@@ -2450,7 +2445,7 @@ Mes devoirs sont remplis.
 * MAUNI  
 * GARDES  
 
-ÉDOUARD, furieux  
+**ÉDOUARD***, furieux*  
 O Colere enflammée !..  
 L'accord de deux Rivaux n'est donc qu'un vain bonheur !..  
 Ingrate Nation qu'a chéri mon erreur  
@@ -2471,22 +2466,22 @@ D'un courroux immortel consacrent les prémices.
 
 *Il tombe dans un fauteuil, tout hors de lui*  
 
-MAUNI  
+**MAUNI**  
 Seigneur...  
 
-ÉDOUARD  
+**ÉDOUARD**  
 Allez, vous dis-je ?  
 
-ALIÉNOR  
+**ALIÉNOR**  
 O transports pleins d'horreurs !   
 Altière Ambition voilà donc tes fureurs !  
 Tu sais de l'Homme un Tigre ; ta rage effrenée..  
 
-EDOUARD, s'appercevant que Mauni ne part point  
+**EDOUARD***, s'appercevant que Mauni ne part point*  
 Avez-vous entendu la loi que j'ai donnée  
 Qu'on les mène à la mort.  
 
-MAUNI, sans dureté  
+**MAUNI***, sans dureté*  
 J'ai suivi vos drapeaux  
 Pour guider vos soldats non pas vos bourreaux  
 Seigneur je vous l'ai dit, vous devez m'en croire  
@@ -2496,7 +2491,7 @@ Vous m'avez confié la gloire de mon Roi
 C'est un dépôt sacré dont j'aimais à répondre  
 Si vous le retirez j'en vais gémir à Londre.  
 
-EDOUARD, toujours assis  
+**EDOUARD***, toujours assis*  
 
 *A un Officier*  
 
@@ -2505,15 +2500,15 @@ Vous allez m'obéir.
 
 *Mauni & l'Officier sortent*  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Harcourt vous abandonne Mauni va vous fuir !  
 O Maire de Calais, fois sur de ta vengeance  
 Ton Rival, de ta mort, va répondre à la France.  
 
-EDOUARD, se levant  
+**EDOUARD***, se levant*  
 Comment ! ce vil Sujet, vous l'égalez à moi !  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Un Sujet vertueux, s'immolant pour son Roi  
 Vaut bien un Roi Seigneur, cruel dans sa victoire  
 Embrâsant l'Univers pour une ombre de gloire  
@@ -2535,22 +2530,22 @@ Viendra vous reprocher des Siècles de malheurs.
 * ALIÉNOR  
 * GARDES  
 
-HARCOURT  
+**HARCOURT**  
 EDOUARD, j'ai rendu vos fureurs légitimes  
 Mes soins, à l'échaffaud arrachent vos victimes ;  
 Elles sont maintenant près du camp de mon Roi.  
 
-EDOUARD  
+**EDOUARD**  
 Perfide, oses-tu bien...  
 
-ALIÉNOR avec une joie tranquille  
+**ALIÉNOR*** avec une joie tranquille*  
 Il est digne de moi.  
 
-EDOUARD  
+**EDOUARD**  
 Quoi ! Ces Français si fiers, qui bravaient le supplice  
 S'abbaissent, pour le fuir, au plus lâche artifice ?  
 
-HARCOURT  
+**HARCOURT**  
 Non Je les ai trompés, sans paraître à leurs yeux  
 A peine le Hérault est entré dans ces lieux  
 J'ai publié Seigneur, qu'en vos mains apportée  
@@ -2566,33 +2561,35 @@ Qui causa leur malheur, pour eux se sacrifie
 C'est le moindre devoir Remplissez donc vos voeux  
 Rassemblez sur moi seul leurs supplices affreux...  
 
-EDOUARD  
+**EDOUARD**  
 Tu les as mérités.  
 
-HARCOURT  
+**HARCOURT**  
 Ce n'est point quand mon zèle  
 Vient de vous épargner une honte éternelle ;  
 Mais lorsque trahissant mon Prince mon Pays  
 J'ai porté la victoire à leurs fiers ennemis.  
 
 *A Aliénor*  
+
 Ah ! j'en pleure de honte Ah ! dites à mon Maître   
 Que je meurs son Sujet digne enfin de l'être.  
 
 *Avec transport*  
+
 J'abjure entre vos mains le serment détesté  
 Qu'à son Rival heureux ma fureur a prêté...  
 
-EDOUARD  
+**EDOUARD**  
 Traître, qui m'as promis comme au Roi légitime...  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Le parjure est vertu quand on promit le crime.  
 
-EDOUARD  
+**EDOUARD**  
 Votre amour fait son crime sa perte en ce jour.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Il s'immole à sa gloire, non à mon amour  
 Mais l'Amour peut enfin reprendre sa puissance  
 Il ne fut point son guide il est sa récompense  
@@ -2600,7 +2597,7 @@ Cher Harcourt, je te rends te prouve ma foi
 Je mourrai ton amante mourrai près de toi  
 Que vois-je ?  
 
-EDOUARD  
+**EDOUARD**  
 Ciel !  
 
 ### SCENE VII. & derniere  
@@ -2615,10 +2612,10 @@ Ciel !
 * LES TROIS AUTRES BOURGEOIS  
 * GARDES  
 
-HARCOURT, à Saint-Pierre  
+**HARCOURT***, à Saint-Pierre*  
 C'EST vous !  
 
-SAINT-PIERRE, à Harcourt  
+**SAINT-PIERRE***, à Harcourt*  
 
 *À Edouard*  
 
@@ -2635,12 +2632,12 @@ Tu hazardais tes jours.. Reprenez vos victimes
 Seigneur Sur mon Pays quels que soient vos projets  
 Vous connaissez enfin le Maître les Sujets.  
 
-EDOUARD  
+**EDOUARD**  
 Je demeure interdit.  
 
 *Il reste appuyé sur un fauteuil,*  
 
-HARCOURT, à Saint-Pierre  
+**HARCOURT***, à Saint-Pierre*  
 Ah ! la mort nous rassemble  
 Vous ne trahirez pas tous mes desirs ensemble.  
 
@@ -2650,16 +2647,16 @@ Adieu.. Marchons Amis.
 
 *Ils sont un pas en silence*  
 
-AURELE regardant Edouard son Pere  
+**AURELE*** regardant Edouard son Pere*  
 Je cède à mon effroi.  
 Seigneur...  
 
 *Il se jette aux pieds d'Edouard*  
 
-SAINT-PIERRE se retournant  
+**SAINT-PIERRE*** se retournant*  
 Mon fils, aux pieds d'un autre que son Roi !  
 
-AURELE à son Père  
+**AURELE*** à son Père*  
 Oui, j'ose demander, (c'est ma seule priere, )  
 
 *A Edouard*  
@@ -2671,18 +2668,18 @@ Vous eussiez vû ce Tigre à vos pleurs insensible
 Le frapper, vous couvrir de son sang paternel..  
 Vous fûtes malheureux, vous êtes cruel !  
 
-SAINT-PIERRE, relevant son Fils  
+**SAINT-PIERRE***, relevant son Fils*  
 Leve-toi je rougis...  
 
-EDOUARD  
+**EDOUARD**  
 Où suis-je ? quel murmure  
 Quels cris attendrissans jette en moi la Nature !  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Ah ! Seigneur, gardez-vous d'en étouffer la voix  
 Le Monde est trop heureux quand elle parle aux Rois.  
 
-EDOUARD  
+**EDOUARD**  
 Par tant de traits puissans mon ame est pénétrée !  
 Quel bandeau tombe enfin de ma vue égarée !  
 De combien de Héros je fuis environné !  
@@ -2693,10 +2690,10 @@ Ah ! je veux me punir Je le veux Je le dois...
 O Ciel ! quel sacrifice il faut faire à Valois !..  
 Mais n'importe.. Vivez, ô généreux courages...  
 
-AURELE  
+**AURELE**  
 Mon Pere !  
 
-EDOUARD  
+**EDOUARD**  
 De la Paix soyez les premiers gages  
 Allez Si vos vertus ont aigri mon courroux  
 D'un Roi que vous servez on peut être jaloux.  
@@ -2714,15 +2711,15 @@ Mais il faudrait les vaincre en Tyran sanginaire
 S'il n'est un don des coeurs, le sceptre peut-il plaire  
 Je renonce à leur Thrône.  
 
-MAUNI, avec fermeté  
+**MAUNI***, avec fermeté*  
 Ah ! je vous reconnais  
 Voilà le noble orgueil d'un coeur vraiment Anglais.  
 
-EDOUARD, prenant la main de Mauni  
+**EDOUARD***, prenant la main de Mauni*  
 C'est par d'autres vertus qu'on va me reconnaître  
 Je veux faire, aux Français, regretter un tel Maître.  
 
-SAINT-PIERRE  
+**SAINT-PIERRE**  
 Seigneur, par vos vertus, attendez des Français  
 Respect, estime, amour,... & non de tels regrets  
 Daignez, en ce moment, recevoir notre hommage  
@@ -2730,7 +2727,7 @@ L'honneur d'un beau trépas a flatté mon courage
 Mais je vais vous devoir le bien de mon Pays  
 Ma vie est un présent qui m'est doux à ce prix.  
 
-ALIÉNOR  
+**ALIÉNOR**  
 Grand Prince avec mon Roi, que de noeuds vous rassemement !  
 Le Ciel fit pour : aimer les coeurs qui se ressemblent  
 Ah ! de l'Humanité rétablissez les droits ;  
