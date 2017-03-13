@@ -115,8 +115,6 @@ Au reste, je ne fuis pas assez aveugle pour prétendre que ma Tragédie soit san
 
 *Les trois premiers Actes et le cinquième se passent dans la Salle d'Audience du Palais du Gouverneur : le quatrième, dans la Prison qui est un souterrain du même Palais.*
 
-
-<div id="piece">
 ## ACTE PREMIER  
 
 ### SCENE PREMIERE  
@@ -2851,8 +2849,6 @@ Ah ! de l'Humanité rétablissez les droits ;
 A l'Europe, tous deux, faites chérir ses loix  
 Que, par vous, des Vertus cette Mère féconde  
 Soit la Reine des Rois, & l'Oracle du Monde.  
-
-</div>
 
 ## NOTES HISTORIQUES Sur le SIÉGE DE CALAIS.
 
