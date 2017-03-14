@@ -682,7 +682,7 @@ De ceux qu'on a trahis l'aspect est un reproche.
 
 *Du fond du Théâtre, marchant vers le Comte, sans l'envisager.*  
 
-**SEIGNEUR***, je l'avouerai d'un Monarque vainqueur*  
+SEIGNEUR, je l'avouerai d'un Monarque vainqueur  
 Je n'osais point attendre un tel excès d'honneur  
 Quoi ! pour me rassurer sur le fort de mon père  
 Il m'envoie....  
