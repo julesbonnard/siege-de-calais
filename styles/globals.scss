@@ -1,11 +1,109 @@
+@import '~normalize.css/normalize.css';
+
 $font-stack: Helvetica, sans-serif;
-$primary-color: #333333;
+$font-color: #2d6778;
+$primary-color: #ffeb35;
+$blockquote-color: #cfb42d;
+$placeholder-color: #fef3f9;
+
+* {
+	box-sizing: border-box;
+}
 
 body {
 	font: 100% $font-stack;
-	color: $primary-color;
+	color: $font-color;
 }
 
-section {
-	height: 100vw;
+header {
+	height: 450px;
+	border: 1px solid black;
+	h1 {
+		position: relative;
+		top: 400px;
+		background-color: $primary-color;
+		font-size: 35px;
+		small {
+			display: block;
+			font-size: 15px;
+		}
+		width: 50%;
+		margin: auto;
+		padding: 25px;
+	}
+}
+main {
+	margin: 150px 0;
+	section {
+		position: relative;
+		aside {
+			position: absolute;
+			top: 0;
+			width: 25%;
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			div {
+				margin-bottom: 130px;
+				margin-left: 100px;
+				background-color: $primary-color;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				a {
+					display: block;
+					margin-left: -40px;
+				}
+			}
+		}
+		article {
+			text-align: justify;
+			.exergue {
+				font-style: italic;
+				font-size: 25px;
+				width: 300px;
+				padding: 15px;
+				float: left;
+				text-align: left;
+			}
+			width: 60%;
+			margin: auto;
+			blockquote {
+				float: right;
+				margin-right: -50px;
+				color: $blockquote-color;
+				width: 250px;
+				font-style: italic;
+				font-weight: bold;
+				.source {
+					font-weight: normal;
+					font-style: normal;
+				}
+			}
+			figure {
+				height: 250px;
+				background-color: $placeholder-color;
+				margin: 0;
+			}
+		}
+	}
+}
+
+footer {
+	height: 450px;
+	margin: 0 50px;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	#footer-content {
+		background-color: $primary-color;
+		width: 50%;
+		padding: 25px;
+	}
 }

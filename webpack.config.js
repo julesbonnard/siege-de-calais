@@ -8,6 +8,17 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         filename: "bundle.js"
     },
+    // resolve: {
+    //     alias: {
+    //         "TweenLite": __dirname + '/node_modules/gsap/src/uncompressed/TweenLite.js',
+    //         "TweenMax": __dirname + '/node_modules/gsap/src/uncompressed/TweenMax.js',
+    //         "TimelineLite": __dirname + '/node_modules/gsap/src/uncompressed/TimelineLite.js',
+    //         "TimelineMax": __dirname + '/node_modules/gsap/src/uncompressed/TimelineMax.js',
+    //         // "scrollmagic": __dirname + '/node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js',
+    //         "animation.gsap": __dirname + '/node_modules/scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js',
+    //         "debug.addIndicators": __dirname + '/node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js'
+    //     }
+    // },
     module: {
         loaders: [{
             test: /\.js$/,
