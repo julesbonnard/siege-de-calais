@@ -1,6 +1,15 @@
 require('./styles/globals.scss')
 
-import * as $ from 'jquery'
+const $ = require('jquery')
+
+const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+const pageHeight = $(document).height()
+
+window.addEventListener('scroll',() => {
+  const scrollPos = document.body.scrollTop;
+  const scrollPourcent = Math.round(scrollPos/(pageHeight-viewportHeight)*100)
+  $('#progress-bar').css('width',scrollPourcent + '%')
+})
 // const ScrollMagic = require('scrollmagic')
 
 // const controller = new ScrollMagic.Controller({
