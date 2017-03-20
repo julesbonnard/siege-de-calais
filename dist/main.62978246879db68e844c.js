@@ -1,0 +1,2 @@
+webpackJsonp([0],{0:function(n,e){},9:function(n,e,t){"use strict";function o(){d=Math.max(document.documentElement.clientHeight,window.innerHeight||0),c=i(document).height()}t(0);var i=t(1),d=void 0,c=void 0;o(),window.addEventListener("resize",o),window.addEventListener("scroll",function(){var n=document.body.scrollTop,e=Math.round(n/(c-d)*100);i("#progress-bar").css("width",e+"%")})}},[9]);
+//# sourceMappingURL=main.map

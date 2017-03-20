@@ -1,5 +1,4 @@
 require('./styles/globals.scss')
-require('./index.html')
 
 const $ = require('jquery')
 
