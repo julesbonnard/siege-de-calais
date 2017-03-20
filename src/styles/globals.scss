@@ -20,6 +20,7 @@ body {
 	height: 5px;
 	position: fixed;
 	z-index: 2;
+	transition: width 150ms linear;
 }
 
 header {

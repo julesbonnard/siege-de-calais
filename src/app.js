@@ -1,9 +1,18 @@
 require('./styles/globals.scss')
+require('./index.html')
 
 const $ = require('jquery')
 
-const viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
-const pageHeight = $(document).height()
+let viewportHeight
+let pageHeight
+
+function resize() {
+  viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+  pageHeight = $(document).height()
+}
+
+resize()
+window.addEventListener('resize', resize)
 
 window.addEventListener('scroll',() => {
   const scrollPos = document.body.scrollTop;
