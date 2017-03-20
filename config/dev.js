@@ -3,6 +3,9 @@ const commonConfig = require('./base.js')
 
 module.exports = (env) => {
     return webpackMerge(commonConfig(), {
+        output: {
+            publicPath: '/'
+        },
         module: {
             rules: [{
                 test: /\.scss$/,

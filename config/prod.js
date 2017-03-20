@@ -5,6 +5,9 @@ const webpack = require('webpack')
 
 module.exports = (env) => {
     return webpackMerge(commonConfig(), {
+        output: {
+            publicPath: './'
+        },
         module: {
             rules: [{
                 test: /\.scss$/,

@@ -10,8 +10,7 @@ module.exports = () => {
         output: {
             path: path.resolve(__dirname, '..', 'dist'),
             filename: '[name].[chunkhash].js',
-            sourceMapFilename: '[name].map',
-            publicPath: './'
+            sourceMapFilename: '[name].map'
         },
         module: {
             rules: [{
