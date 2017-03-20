@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/julesbonnard/siege-de-calais#readme",
   "dependencies": {
-    "extract-loader": "^0.1.0",
     "jquery": "^3.2.0",
     "scrollmagic": "^2.0.5"
   },
