@@ -1,5 +1,6 @@
 require('./styles/globals.scss')
     // require('index.html')
+const slick = require('slick-carousel')
 
 const $ = require('jquery')
 
@@ -20,6 +21,9 @@ $(() => {
         const scrollPourcent = Math.round(scrollPos / (pageHeight - viewportHeight) * 100)
         $('#progress-bar').css('width', scrollPourcent + '%')
     })
+
+    $(".carousel").slick()
+
 })
     // const ScrollMagic = require('scrollmagic')
 
