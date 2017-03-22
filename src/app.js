@@ -1,25 +1,27 @@
 require('./styles/globals.scss')
-// require('index.html')
+    // require('index.html')
 
 const $ = require('jquery')
 
-let viewportHeight
-let pageHeight
+$(() => {
+    let viewportHeight
+    let pageHeight
 
-function resize() {
-  viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
-  pageHeight = $(document).height()
-}
+    function resize() {
+        viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+        pageHeight = document.documentElement.scrollHeight
+    }
 
-resize()
-window.addEventListener('resize', resize)
+    resize()
+    window.addEventListener('resize', resize)
 
-window.addEventListener('scroll',() => {
-  const scrollPos = document.body.scrollTop;
-  const scrollPourcent = Math.round(scrollPos/(pageHeight-viewportHeight)*100)
-  $('#progress-bar').css('width',scrollPourcent + '%')
+    window.addEventListener('scroll', () => {
+        const scrollPos = document.body.scrollTop;
+        const scrollPourcent = Math.round(scrollPos / (pageHeight - viewportHeight) * 100)
+        $('#progress-bar').css('width', scrollPourcent + '%')
+    })
 })
-// const ScrollMagic = require('scrollmagic')
+    // const ScrollMagic = require('scrollmagic')
 
 // const controller = new ScrollMagic.Controller({
 //     globalSceneOptions: {
