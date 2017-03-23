@@ -24,6 +24,17 @@ $(() => {
 
     $(".carousel").slick()
 
+    $('a.audio').click((event) => {
+        const balTragique = event.target.getElementsByTagName('audio')[0]
+        if(balTragique.paused) {
+            balTragique.play()
+            event.target.classList.add('play')
+        }
+        else {
+            balTragique.pause()
+            event.target.classList.remove('play')
+        }
+    })
 })
     // const ScrollMagic = require('scrollmagic')
 

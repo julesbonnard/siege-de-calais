@@ -48,11 +48,11 @@ module.exports = () => {
                     }
                 }
             }, {
-                test: /\.(webm|mp4)$/,
+                test: /\.(webm|mp4|mp3)$/,
                 loader: 'file-loader'
             }, {
                 test: /\.html$/,
-                loader: 'html-loader?attrs[]=img:src&attrs[]=video:src&attrs[]=source:src'
+                loader: 'html-loader?attrs[]=img:src&attrs[]=video:src&attrs[]=source:src&attrs[]=audio:src'
             }]
         },
         plugins: [
