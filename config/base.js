@@ -48,7 +48,7 @@ module.exports = () => {
                     }
                 }
             }, {
-                test: /\.(webm|mp4|mp3)$/,
+                test: /\.(webm|mp4|mp3|m4v)$/,
                 loader: 'file-loader'
             }, {
                 test: /\.html$/,

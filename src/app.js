@@ -1,7 +1,7 @@
 require('./styles/globals.scss')
     // require('index.html')
 require('script-loader!jquery')
-const slick = require('slick-carousel')
+require('script-loader!slick-carousel')
 require('script-loader!jquery-modal')
 
 $(() => {
