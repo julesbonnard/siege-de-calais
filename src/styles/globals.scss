@@ -11,7 +11,7 @@ $font-color: #2d6778;
 $primary-color: #ffeb35;
 $blockquote-color: #cfb42d;
 $placeholder-color: #fef3f9;
-$central-width: 60%;
+$central-width: 549px;
 
 * {
 	box-sizing: border-box;
@@ -20,6 +20,11 @@ $central-width: 60%;
 body {
 	font: 100% $font-stack;
 	color: $font-color;
+}
+
+header,main,footer {
+	width: 1024px;
+	margin: auto;
 }
 
 #progress-bar {
@@ -31,34 +36,40 @@ body {
 }
 
 header {
-	height: 450px;
+	height: 562px;
 	border: 1px solid black;
+	background-image: url('../assets/header.png');
+	background-size: 100% auto;
 	h1 {
 		position: relative;
 		top: 400px;
 		background-color: $primary-color;
-		font-size: 35px;
-		line-height: 45px;
+		font-size: 50px;
+		line-height: 52px;
 		small {
+			margin-top: 18px;
 			display: block;
-			font-size: 18px;
+			font-size: 36px;
 			font-family: $font-secondary;
 			font-weight: 100;
-			line-height: 25px;
+			line-height: 44px;
 		}
-		width: 60%;
+		width: 645px;
 		margin: auto;
 		padding: 22px 35px;
 	}
 }
 main {
-	margin: 150px 0;
+	font-size: 20px;
+	line-height: 24px;
+	margin-top: 150px;
+	margin-bottom: 150px;
 	section {
 		position: relative;
 		h2 {
 			width: $central-width;
 			margin: auto;
-			font-size: 30px;
+			font-size: 32px;
 			text-align: left;
 		}
 		figure {
@@ -84,6 +95,33 @@ main {
 			&.placeholder {
 				background-color: $placeholder-color;
 			}
+			figcaption {
+				display: none;
+			}
+		}
+		aside {
+			float: left;
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			div {
+				margin-bottom: 130px;
+				margin-left: 100px;
+				background-color: $primary-color;
+				height: 104px;
+				width: 104px;
+				border-radius: 50%;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				a {
+					font-family: $font-secondary;
+					font-weight: 600;
+					display: block;
+					margin-left: -40px;
+				}
+			}
 		}
 		article:first-of-type {
 			margin: 0px;
@@ -91,44 +129,25 @@ main {
 		article {
 			clear: both;
 			margin: 24px 0px;
-			// aside {
-			// 	position: absolute;
-			// 	top: 0;
-			// 	width: 25%;
-			// 	height: 100%;
-			// 	display: flex;
-			// 	flex-direction: column;
-			// 	justify-content: center;
-			// 	div {
-			// 		margin-bottom: 130px;
-			// 		margin-left: 100px;
-			// 		background-color: $primary-color;
-			// 		height: 50px;
-			// 		width: 50px;
-			// 		border-radius: 50%;
-			// 		display: flex;
-			// 		flex-direction: column;
-			// 		justify-content: center;
-			// 		a {
-			// 			font-family: $font-secondary;
-			// 			font-weight: 600;
-			// 			display: block;
-			// 			margin-left: -40px;
-			// 		}
-			// 	}
-			// }
 			.central {
 				width: $central-width;
 				margin: auto;
 				text-align: justify;
 				blockquote {
+					font-family: $font-secondary;
 					float: right;
-					margin-right: -50px;
+					margin: 0px;
+					padding: 20px;
+					margin-right: -90px;
 					color: $blockquote-color;
 					width: 250px;
 					font-style: italic;
 					font-weight: bold;
+					text-align: left;
+					line-height: 26px;
 					.source {
+						font-family: $font-stack;
+						font-size: 18px;
 						font-weight: normal;
 						font-style: normal;
 					}
@@ -138,14 +157,18 @@ main {
 				font-family: $font-secondary;
 				font-style: italic;
 				font-weight: 600;
-				font-size: 20px;
-				width: 300px;
-				padding: 0px 15px;
+				font-size: 25px;
+				// width: 300px;
+				padding-right: 15px;
+				margin: 0;
 				float: left;
 				text-align: left;
+				line-height: 35px;
 			}
 			&.bleu {
 				background-color: #eaf0f2;
+				padding-top: 25px;
+				padding-bottom: 25px;
 			}
 			&.title-band {
 				h3 {
@@ -163,7 +186,7 @@ main {
 
 footer {
 	height: 450px;
-	margin: 0 50px;
+	// margin: 0 50px;
 	border: 1px solid black;
 	display: flex;
 	flex-direction: column;
