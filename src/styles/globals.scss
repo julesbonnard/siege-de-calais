@@ -31,6 +31,9 @@ header,main,footer {
 img {
 	width: 100%;
 }
+.audio img {
+	width: 104px;
+}
 
 #progress-bar {
 	background-color: #2d6778;
@@ -75,7 +78,6 @@ header {
 		right: -120px;
 		img {
 			width: 104px;
-			pointer-events: none;
 		}
 	}
 }
@@ -128,47 +130,7 @@ main {
 				display: none;
 			}
 		}
-		aside {
-			float: left;
-			height: 100%;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			div:not(.modal) {
-				margin-bottom: 130px;
-				margin-left: 100px;
-				background-color: $primary-color;
-				height: 104px;
-				width: 104px;
-				border-radius: 50%;
-				display: flex;
-				flex-direction: column;
-				justify-content: center;
-				a {
-					font-family: $font-secondary;
-					font-weight: 600;
-					display: block;
-					margin-left: -40px;
-					color: $font-color;
-					text-decoration: none;
-					&:hover {
-						text-decoration: underline;
-					}
-				}
-			}
-			.modal {
-				display: none;
-			}
-			&.right {
-				float: right;
-				.audio img {
-					width: 104px;
-					height: 104px;
-					margin-right: 25px;
-					pointer-events: none;
-				}
-			}
-		}
+		
 		article:first-of-type {
 			margin: 0px;
 		}
@@ -226,6 +188,46 @@ main {
 					margin: 0px;
 				}
 			}
+		}
+	}
+}
+aside {
+	float: left;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	div:not(.modal) {
+		margin-bottom: 130px;
+		margin-left: 100px;
+		background-color: $primary-color;
+		height: 104px;
+		width: 104px;
+		border-radius: 50%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		a {
+			font-family: $font-secondary;
+			font-weight: 600;
+			display: block;
+			margin-left: -40px;
+			color: $font-color;
+			text-decoration: none;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+	.modal {
+		display: none;
+	}
+	&.right {
+		float: right;
+		.audio img {
+			width: 104px;
+			height: 104px;
+			margin-right: 25px;
 		}
 	}
 }

@@ -26,7 +26,7 @@ $(() => {
 
     $('a.audio').click((event) => {
         event.preventDefault()
-        const audio = event.target.getElementsByTagName('audio')[0]
+        const audio = event.target.parentElement.getElementsByTagName('audio')[0]
         if(audio.paused) {
             audio.play()
             event.target.classList.add('play')
