@@ -1,6 +1,7 @@
 @import '~normalize.css/normalize.css';
 @import '~slick-carousel/slick/slick.css';
 @import '~slick-carousel/slick/slick-theme.css';
+@import '~jquery-modal/jquery.modal.css';
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
@@ -25,6 +26,10 @@ body {
 header,main,footer {
 	width: 1024px;
 	margin: auto;
+}
+
+img {
+	width: 100%;
 }
 
 #progress-bar {
@@ -81,6 +86,14 @@ main {
 	margin-bottom: 150px;
 	section {
 		position: relative;
+		.header {
+			background-image: url('../assets/header.png');
+			width: 100%;
+			height: 262px;
+			margin-bottom: 32px;
+			background-size: 100% auto;
+			margin-top: 32px;
+		}
 		h2 {
 			width: $central-width;
 			margin: auto;
@@ -121,7 +134,7 @@ main {
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
-			div {
+			div:not(.modal) {
 				margin-bottom: 130px;
 				margin-left: 100px;
 				background-color: $primary-color;
@@ -136,6 +149,23 @@ main {
 					font-weight: 600;
 					display: block;
 					margin-left: -40px;
+					color: $font-color;
+					text-decoration: none;
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+			.modal {
+				display: none;
+			}
+			&.right {
+				float: right;
+				.audio img {
+					width: 104px;
+					height: 104px;
+					margin-right: 25px;
+					pointer-events: none;
 				}
 			}
 		}

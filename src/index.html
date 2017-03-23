@@ -39,8 +39,15 @@
 	        <h2>Un blockbuster au XVIII<sup>ème</sup> siècle</h2>
 	        <article>
 	        	<aside class="left">
-		            <div><a>Documents d'époque</a></div>
-		            <div><a>En savoir plus</a></div>
+	        		<div id="docs-epoque" class="modal"></div>
+		            <div><a href="#docs-epoque" rel="modal:open">Documents d'époque</a></div>
+		            <div id="auteur" class="modal">
+		            	<img src="assets/gravure_debelloy.jpg" />
+		            	<p>
+		            		Pierre Laurent de Belloy est né le 17 novembre 1727 à Saint-Flour dans une famille aisée de notaires. Orphelin à 5 ans, il est élevé par son oncle qui compte sur lui pour reprendre le cabinet familial. Pourtant, de Belloy rêve de théâtre. Il prend donc le pseudonyme de Dormont de Belloy pour échapper à sa destinée et continuer sa passion. Après l’ultimatum donné par son oncle de travailler pour lui ou de se voir emprisonné, de Belloy part travailler pour une troupe russe à Saint-Petersbourg. Ce n’est qu’à la mort de son oncle en 1762 qu’il peut rentrer en France et exercer son métier de dramaturge tragique en présentant la pièce Zelmire à la Comédie Française. L’année suivante de Belloy se penche sur l’écriture du Siège de Calais, qui sera elle aussi très bien reçue par la critique et représentée à la Comédie Française. Ce sont ses deux succès principaux qui l’ont rendu célèbre bien qu’il ait, en tout, écrit 6 tragédies au cours de sa carrière. Le dramaturge meurt à l’âge de 47 ans des suites d’une maladie. 
+		            	</p>
+		            </div>
+		            <div><a href="#auteur" rel="modal:open">L'auteur</a></div>
 		        </aside>
 		        <div class="central">
 		            <p>
@@ -59,6 +66,12 @@
 		        </div>
 	        </article>
             <article class="bleu">
+            	<aside class="right">
+            		<a href="#" class="audio play">
+    					<img src="assets/picto_son.png" />
+    					<audio src="assets/anglais_francais.mp3">Your browser does not support the audio element.</audio>
+    				</a>
+            	</aside>
 		        <div class="central">
 					<p>
 		            	<h3>Une diffusion<br />à l'échelle européenne</h3>
@@ -70,12 +83,24 @@
             	<img src="assets/carte_representations.png" />
             	<figcaption>Carte des représentations</figcaption>
             </figure>
+            <article>
+            	<aside class="right">
+            		<a href="#" class="audio play">
+    					<img src="assets/picto_son.png" />
+    					<audio src="assets/parodie.mp3">Your browser does not support the audio element.</audio>
+    				</a>
+            	</aside>
+            	<div class="central">
+            		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum fringilla quam et suscipit. Cras vestibulum, dolor nec ornare dictum, elit ligula suscipit orci, at elementum sem urna vitae lacus. Sed eu imperdiet tortor, sed euismod dui. Phasellus auctor lorem dolor, nec mollis elit fringilla a. Nulla tincidunt justo at augue varius viverra.</p>
+            	</div>
+            </article>
 	        <article class="title-band">
 	        	<h3>Et aujourd'hui ça donnerait quoi ?</h3>
 	        	<figure class="placeholder"></figure>
 	        </article>
 	    </section>
 	    <section id="partie2">
+	    	<div class="header"></div>
 	       	<h2>D'accord, mais...<br />ça raconte quoi ?</h2>
 	        <article>
 		        <div class="central" id="personnages">
@@ -116,6 +141,7 @@
 	        </article>
 	    </section>
 	    <section id="partie3">
+	    	<div class="header"></div>
 	        <h2>Inspiré d'une histoire vraie</h2>
 	        <figure>
         		<img src="assets/timeline_story2.gif">
@@ -160,6 +186,7 @@
 	        </article>
 	    </section>
 	    <section id="partie4">
+	    	<div class="header"></div>
 	       	<h2>Sauver les meubles</h2>
 	        <article>
 	        	<aside class="left">

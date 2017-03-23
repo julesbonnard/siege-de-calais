@@ -1,8 +1,8 @@
 require('./styles/globals.scss')
     // require('index.html')
+require('script-loader!jquery')
 const slick = require('slick-carousel')
-
-const $ = require('jquery')
+require('script-loader!jquery-modal')
 
 $(() => {
     let viewportHeight
@@ -25,13 +25,14 @@ $(() => {
     $(".carousel").slick()
 
     $('a.audio').click((event) => {
-        const balTragique = event.target.getElementsByTagName('audio')[0]
-        if(balTragique.paused) {
-            balTragique.play()
+        event.preventDefault()
+        const audio = event.target.getElementsByTagName('audio')[0]
+        if(audio.paused) {
+            audio.play()
             event.target.classList.add('play')
         }
         else {
-            balTragique.pause()
+            audio.pause()
             event.target.classList.remove('play')
         }
     })
