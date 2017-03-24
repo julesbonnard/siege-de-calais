@@ -37,7 +37,7 @@ $(() => {
         }
     })
 })
-    // const ScrollMagic = require('scrollmagic')
+// const ScrollMagic = require('scrollmagic')
 
 // const controller = new ScrollMagic.Controller({
 //     globalSceneOptions: {
@@ -55,13 +55,3 @@ $(() => {
 //         .addIndicators()
 //         .addTo(controller)
 // }
-
-// const scrollProgress = new ScrollMagic.Scene({
-//     triggerElement: 'main',
-//     duration: 200
-// })
-// .addIndicators()
-// .addTo(controller)
-// .on('progress',(e) => {
-//   console.log(e.progress.toFixed(3))
-// })
