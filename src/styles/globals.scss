@@ -206,6 +206,9 @@ aside {
 	flex-direction: column;
 	justify-content: center;
 	div:not(.modal) {
+		&.nomargin {
+			margin-bottom: 0px;
+		}
 		margin-bottom: 130px;
 		margin-left: 100px;
 		background-color: $primary-color;
