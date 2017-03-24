@@ -264,6 +264,7 @@ aside {
 		margin-left: 15px;
 		border-radius: 50%;
 		background-image: url('../assets/header.png');
+		background-size: 100% auto;
 		display: inline-block;
 		margin-bottom: 15px;
 		&.jaune {
@@ -271,6 +272,27 @@ aside {
 		}
 		&.bleu {
 			border: 4px solid $font-color;
+		}
+		&#roi {
+			background-image: url('../assets/illuroidefrance.png');
+		}
+		&#saintpierre {
+			background-image: url('../assets/illusaintpierre.png');
+		}
+		&#alienor {
+			background-image: url('../assets/illualienor.png');
+		}
+		&#aurele {
+			background-image: url('../assets/illuaurele.png');
+		}
+		&#edouard {
+			background-image: url('../assets/illuedouard.png');
+		}
+		&#harcourt {
+			background-image: url('../assets/illuharcourt.png');
+		}
+		&#mauni {
+			background-image: url('../assets/illumauni.png');
 		}
 	}
 }
