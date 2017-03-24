@@ -46,7 +46,7 @@ img,video,audio {
 header {
 	height: 562px;
 	border: 1px solid black;
-	background-image: url('../assets/header.png');
+	background-image: url('../assets/header01.jpg');
 	background-size: 100% auto;
 	h1 {
 		position: relative;
@@ -89,7 +89,15 @@ main {
 	section {
 		position: relative;
 		.header {
-			background-image: url('../assets/header.png');
+			&#header2 {
+				background-image: url('../assets/header02.jpg');
+			}
+			&#header3 {
+				background-image: url('../assets/header03.jpg');
+			}
+			&#header4 {
+				background-image: url('../assets/header.png');
+			}
 			width: 100%;
 			height: 262px;
 			margin-bottom: 32px;
@@ -274,6 +282,13 @@ aside {
 			align-items: center;
 			text-align: center;
 			justify-content: center;
+			a {
+				color: $font-color;
+				text-decoration: none;
+				&:hover {
+					text-decoration: underline;
+				}
+			}
 		}
 		&.jaune {
 			border: 4px solid $primary-color;
@@ -301,6 +316,9 @@ aside {
 		}
 		&#mauni .front {
 			background-image: url('../assets/illumauni.png');
+		}
+		.modal {
+			display: none;
 		}
 	}
 }
@@ -357,6 +375,8 @@ footer {
 	flex-direction: column;
 	justify-content: flex-end;
 	align-items: center;
+	background-image: url('../assets/header.png');
+	background-size: 100% auto;
 	#footer-content {
 		background-color: $primary-color;
 		width: 50%;
