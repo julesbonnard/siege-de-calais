@@ -45,7 +45,7 @@ img,video,audio {
 
 header {
 	height: 562px;
-	border: 1px solid black;
+	// border: 1px solid black;
 	background-image: url('../assets/header01.jpg');
 	background-size: 100% auto;
 	h1 {
@@ -370,7 +370,7 @@ aside {
 footer {
 	height: 450px;
 	// margin: 0 50px;
-	border: 1px solid black;
+	// border: 1px solid black;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
