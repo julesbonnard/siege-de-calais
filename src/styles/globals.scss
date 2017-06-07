@@ -31,8 +31,15 @@ header,main,footer {
 img:not(.slick-slide),video,audio {
 	width: 100%;
 }
-.audio img {
-	width: 104px;
+.audio {
+	max-width: 134px;
+	text-align: left;
+	font-family: $font-secondary;
+	color: $font-color;
+	font-size: 14px;
+	img {
+		width: 104px;
+	}
 }
 
 #progress-bar {
@@ -50,7 +57,7 @@ header {
 	background-size: 100% auto;
 	h1 {
 		position: relative;
-		top: 400px;
+		top: 332px;
 		background-color: $primary-color;
 		font-size: 50px;
 		line-height: 52px;
@@ -61,6 +68,11 @@ header {
 			font-family: $font-secondary;
 			font-weight: 100;
 			line-height: 44px;
+		}
+		.soustitre {
+			font-size: 15px;
+			line-height: 20px;
+			font-style: italic;
 		}
 		width: 645px;
 		margin: auto;
@@ -376,7 +388,7 @@ aside {
 }
 
 footer {
-	height: 450px;
+	min-height: 1250px;
 	// margin: 0 50px;
 	// border: 1px solid black;
 	display: flex;
@@ -385,9 +397,24 @@ footer {
 	align-items: center;
 	background-image: url('../assets/header.png');
 	background-size: 100% auto;
+	background-repeat: no-repeat;
 	#footer-content {
 		background-color: $primary-color;
 		width: 50%;
 		padding: 25px;
+	}
+}
+
+#logos {
+	display: flex;
+	margin-top: 155px;
+	padding-bottom: 50px;
+	padding-left: 25px;
+	padding-right: 25px;
+	div {
+		margin: 5px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 	}
 }
