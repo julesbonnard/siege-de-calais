@@ -31,6 +31,13 @@ header,main,footer {
 img:not(.slick-slide),video,audio {
 	width: 100%;
 }
+
+@keyframes bounce {
+    from {transform: scale(1);}
+    to {transform: scale(1.2);}
+}
+
+
 .audio {
 	max-width: 134px;
 	text-align: left;
@@ -39,6 +46,14 @@ img:not(.slick-slide),video,audio {
 	font-size: 14px;
 	img {
 		width: 104px;
+		transform-origin: 50% 50%;
+		&.play {
+			animation-name: bounce;
+    		animation-duration: 1s;
+    		animation-iteration-count: infinite;
+    		animation-direction: alternate;
+    		animation-timing-function: ease-in-out;
+		}
 	}
 }
 
@@ -183,6 +198,11 @@ main {
 						float: left;
 						margin-left: -90px;
 						margin-right: 0px;
+					}
+					&.center {
+						float: none;
+						width: 100%;
+						text-align: center;
 					}
 				}
 			}

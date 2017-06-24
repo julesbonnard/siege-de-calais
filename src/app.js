@@ -24,9 +24,18 @@ $(() => {
 
     $(".carousel").slick()
 
+    let playEl = null
+    let parentPlayEl = null
     $('a.audio').click((event) => {
         event.preventDefault()
         const audio = event.target.parentElement.getElementsByTagName('audio')[0]
+        if(playEl && audio.src!==playEl.src) {
+            playEl.pause()
+            playEl.currentTime = 0;
+            parentPlayEl.classList.remove('play')
+        }
+        playEl = audio
+        parentPlayEl = event.target
         if(audio.paused) {
             audio.play()
             event.target.classList.add('play')
