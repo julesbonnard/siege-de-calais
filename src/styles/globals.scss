@@ -408,7 +408,7 @@ aside {
 }
 
 footer {
-	min-height: 1250px;
+	// min-height: 1150px;
 	// margin: 0 50px;
 	// border: 1px solid black;
 	display: flex;
@@ -419,6 +419,7 @@ footer {
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	#footer-content {
+		margin-top: 250px;
 		background-color: $primary-color;
 		width: 50%;
 		padding: 25px;
